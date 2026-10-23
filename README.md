@@ -6,3 +6,8 @@
 # Negative prompts
 
 Related to ask the the model to do not produce something, link to ask to do not produce an image using the color blue.
+
+
+# Passing of variables
+
+![variable substitution](images/passing-of-variables.png)
