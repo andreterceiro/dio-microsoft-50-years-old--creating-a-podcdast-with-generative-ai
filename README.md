@@ -11,3 +11,8 @@ Related to ask the the model to do not produce something, link to ask to do not 
 # Passing of variables
 
 ![variable substitution](images/passing-of-variables.png)
+
+
+# Prompt example - defining a podcast title
+
+![prompt example - defining a podcast title](images/prompt-example--defining-a-podcast-title.png)
