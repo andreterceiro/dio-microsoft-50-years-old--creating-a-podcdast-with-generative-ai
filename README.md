@@ -31,3 +31,4 @@ In [this class](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/94d1e
 Midjourney nowdays only allow to generate images using a paid plan. But I will pass here some interesting Midjourney documentation links:
 
 - [Parameters list](https://docs.midjourney.com/hc/en-us/articles/32859204029709-Parameter-List);
+- [Weights](https://docs.midjourney.com/hc/en-us/articles/32658968492557-Multi-Prompts-Weights).
