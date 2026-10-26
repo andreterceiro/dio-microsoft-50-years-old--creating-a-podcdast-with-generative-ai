@@ -27,3 +27,7 @@ But, despite the instructions, teacher got unwanted results.
 In [this class](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/94d1e79f-d215-471d-8eb6-eeee15332e95), teacher asked Midjourney to generate a cover image in Midjouney through Discord:
 
 ![generating an imaget in Midjourney through Discord](images/generating-an-image-in-Midjourney-through-Discord.png)
+
+Midjourney nowdays only allow to generate images using a paid plan. But I will pass here some interesting Midjourney documentation links:
+
+- [Parameters list](https://docs.midjourney.com/hc/en-us/articles/32859204029709-Parameter-List);
