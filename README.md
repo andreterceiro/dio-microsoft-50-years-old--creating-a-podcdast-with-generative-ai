@@ -21,5 +21,3 @@ But, despite the instructions, teacher got unwanted results.
 
 ![unwanted results](images/unwanted-results.png)
 
-
-# [Current class](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/94d1e79f-d215-471d-8eb6-eeee15332e95)
