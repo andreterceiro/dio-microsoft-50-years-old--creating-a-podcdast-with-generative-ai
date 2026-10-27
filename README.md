@@ -34,4 +34,3 @@ Midjourney nowdays only allow to generate images using a paid plan. But I will p
 - [Weights](https://docs.midjourney.com/hc/en-us/articles/32658968492557-Multi-Prompts-Weights) - In the video teacher inserted in the prompt after a word :X (X is an integer number) to  specify the weight of the word in the prompt. Please see the documentation because seems that the syntax changed a little.
 
 
-# [Current video](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/29702401-84a2-44ee-b6a7-cda44cb70c6f?back=/play)
