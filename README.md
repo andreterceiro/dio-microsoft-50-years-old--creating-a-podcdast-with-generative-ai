@@ -34,3 +34,8 @@ Midjourney nowdays only allow to generate images using a paid plan. But I will p
 - [Weights](https://docs.midjourney.com/hc/en-us/articles/32658968492557-Multi-Prompts-Weights) - In the video teacher inserted in the prompt after a word :X (X is an integer number) to  specify the weight of the word in the prompt. Please see the documentation because seems that the syntax changed a little.
 
 
+# Generating a content with variables
+
+Teacher generated a content in ChatGPT using variables delimiting it with square brackets:
+
+![using variables](images/using-variables.png)
