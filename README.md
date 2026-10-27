@@ -46,3 +46,6 @@ Teacher generated a content in ChatGPT using variables delimiting it with square
 Teacher generated audio in [Eleven Labs](http://elevenlabs.io). In this next image I show how teacher downloaded the generated audio and how he selected a different voice for the audio generation:
 
 ![Eleven Labs - generating and downloading audio](images/eleven-labs--generating-and-downloading-audio.png)
+
+
+# [Current class](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/3be22850-e2ca-41b6-94de-7718d7d97835) - 04:03
