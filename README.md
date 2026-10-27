@@ -39,3 +39,10 @@ Midjourney nowdays only allow to generate images using a paid plan. But I will p
 Teacher generated a content in ChatGPT using variables delimiting it with square brackets:
 
 ![using variables](images/using-variables.png)
+
+
+# Generating audio in Eleven Labs
+
+Teacher generated audio in [Eleven Labs](http://elevenlabs.io). In this next image I show how teacher downloaded the generated audio and how he selected a different voice for the audio generation:
+
+![Eleven Labs - generating and downloading audio](images/eleven-labs--generating-and-downloading-audio.png)
