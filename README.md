@@ -50,4 +50,4 @@ Teacher generated audio in [Eleven Labs](http://elevenlabs.io). In this next ima
 
 # Exploring Eleven Labs
 
-I saw that this tool offers 10.000 free credits. I discovered that the tool also can generate images (also in the free plan) and videos (only in paid plan).
+I saw that this tool offers 10.000 free credits. I discovered that the tool also can generate images (also in the free plan) and videos (only in paid plan). Of course the tool can generate audio.
