@@ -59,3 +59,5 @@ The ElevenLabs editor changed a little nodays, but teacher showed a very advance
 Here you can see an image of Eleven Labs studio **in the epoch when teacher recorded the course**:
 
 ![Eleven Labs studio](images/elevn-labs-studio.png)
+
+# [Current class](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/8b06d7fc-e7bd-4562-af0b-7e24ba77e77a) - 07:27
