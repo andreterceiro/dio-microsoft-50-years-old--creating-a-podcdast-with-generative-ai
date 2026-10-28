@@ -53,3 +53,5 @@ Teacher generated audio in [Eleven Labs](http://elevenlabs.io). In this next ima
 I saw that this tool offers 10.000 free credits. I discovered that the tool also can generate images (also in the free plan) and videos (only in paid plan). Of course the tool can generate audio. But when asking the tool chat studio to generate a simple image and a simple audio audio, I spent 4230 credits!
 
 I (and teacher) could select the speaker (different speakers, different voices) and the background audio and I didn't find the option to insert a effect, but teacher could insert an effect in the audio.
+
+The ElevenLabs editor changed a little nodays, but teacher showed a very advanced editor. As example you can insert more the one parallel trail (one for the speaker voice and other to the bakground music as example), ajust the sound volume of one trail only and the trails can have different durations.
