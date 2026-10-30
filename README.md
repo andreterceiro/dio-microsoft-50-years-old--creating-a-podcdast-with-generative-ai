@@ -67,3 +67,8 @@ There, in **Elevenlabs Studio**, you can export or share the project.
 But pay attention that **at least in the free version** (I do not know in the paid version) the exported content will have a watermark.
 
 ![watermark in the exported content - ElevenLabs Studio](images/eleven-labs-studio--watermark-in-exported-media.png)
+
+
+# Repository related to the classes
+
+[link](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)
