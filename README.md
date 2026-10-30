@@ -61,3 +61,5 @@ Here you can see an image of Eleven Labs studio **in the epoch when teacher reco
 ![Eleven Labs studio](images/elevn-labs-studio.png)
 
 There, in **Elevenlabs Studio**, you can export or share the project.
+
+![exporting or sharing in ElevenLabs Studio](images/sharing-or-exporting-in-eleven-labs-studio.png)
