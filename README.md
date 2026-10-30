@@ -63,3 +63,5 @@ Here you can see an image of Eleven Labs studio **in the epoch when teacher reco
 There, in **Elevenlabs Studio**, you can export or share the project.
 
 ![exporting or sharing in ElevenLabs Studio](images/sharing-or-exporting-in-eleven-labs-studio.png)
+
+But pay attention that **at least in the free version** (I do not know in the paid version) the exported content will have a watermark.
