@@ -59,3 +59,5 @@ The ElevenLabs editor changed a little nodays, but teacher showed a very advance
 Here you can see an image of Eleven Labs studio **in the epoch when teacher recorded the course**:
 
 ![Eleven Labs studio](images/elevn-labs-studio.png)
+
+There, in **Elevenlabs Studio**, you can export or share the project.
