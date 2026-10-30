@@ -65,3 +65,5 @@ There, in **Elevenlabs Studio**, you can export or share the project.
 ![exporting or sharing in ElevenLabs Studio](images/sharing-or-exporting-in-eleven-labs-studio.png)
 
 But pay attention that **at least in the free version** (I do not know in the paid version) the exported content will have a watermark.
+
+![watermark in the exported content - ElevenLabs Studio](images/eleven-labs-studio--watermark-in-exported-media.png)
